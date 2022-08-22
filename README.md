@@ -1,3 +1,7 @@
-# tic-tac-toe-ReactApp
+Tic Tac Toe Game
+Made using ReactJs, CSS, JavaScript, HTML.
 
-A simple tic-tac-toe game made using ReactJS. This project is taught at Internshala Trainings and customized by me. The project can be found at https://tic-tac-toe-reactapp-deysarkarswarup.netlify.app/
+https://sunnytictactoe.vercel.app/
+
+![Screenshot (1118)](https://user-images.githubusercontent.com/66839015/185849254-4a15fc03-d950-444d-906b-640d7c8ef954.png)
+
